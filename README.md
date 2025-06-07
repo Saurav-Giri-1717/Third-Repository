@@ -1,4 +1,4 @@
 # Third-Repository
 Author - Saurav Kumar Giri
 <br>
-Use HTML tags in GitHub.
+HTML tags are used in GitHub.
